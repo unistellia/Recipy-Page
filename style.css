@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 18px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input, textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+#recipe.List {
+    margin-top: 20px;
+}
+
+.recipe img {
+    max-width: 40px;
+    margin-right: 10px;
+}
+
+button.delete {
+    margin-left: auto;
+}
