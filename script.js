@@ -1,5 +1,5 @@
 
-document.getElementById('recipe-form').addEventListener('submit', addRecipe);
+document.getElementById('recipeForm').addEventListener('submit', addRecipe);
 
 let recipes = [];
 
